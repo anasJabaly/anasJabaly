@@ -1,73 +1,39 @@
-# Hi, I'm Anas 👋
+# Anas Jabaly
 
-I'm a Computer Engineering student at TH Köln with a focus on
-software development, web technologies and IT security.
+Student der Technischen Informatik an der TH Köln. Ich suche eine Werkstudentenstelle in der Softwareentwicklung und entwickle eigene Webanwendungen und Browser-Erweiterungen.
 
-I enjoy building practical applications, learning new technologies
-and turning ideas into working products.
+[Portfolio & Kontakt](https://www.anas-jabaly.de)
 
-## 👨‍💻 About Me
+## Ausgewählte Projekte
 
-- 🎓 Studying Computer Engineering (Technische Informatik) at TH Köln
-- 💻 Interested in Software Development, Web Development & Cybersecurity
-- 🐧 Linux user
-- 🚀 Building personal projects and web applications
-- 🌐 Portfolio: [anas-jabaly.de](https://www.anas-jabaly.de)
+### Fokus für YouTube
 
-## 🛠️ Technologies
+Browser-Erweiterung für einen fokussierteren Umgang mit YouTube: konfigurierbare Such- und Videofilter, eine abschaltbare Shorts-Sperre und optionales Ausblenden des Startseiten-Feeds.
 
-**Languages**
+**Technik:** JavaScript, Manifest V3, Content Scripts und `chrome.storage.sync`.
 
-`Java` · `JavaScript` · `Python` · `C` · `HTML` · `CSS` · `SQL`
+[Code](https://github.com/anasJabaly/fokus-for-youtube) · [Projektseite](https://www.anas-jabaly.de/produkte.html)
 
-**Tools & Technologies**
+### Portfolio
 
-`Git` · `GitHub` · `Linux` · `Supabase` · `Cloudflare` · `Vercel`
+Persönliche Website zur Vorstellung meiner Projekte und meines bisherigen Wegs. Die statische Umsetzung nutzt HTML, CSS und JavaScript; Animationen mit GSAP und ScrollTrigger berücksichtigen die Einstellung für reduzierte Bewegung.
 
-## 🚀 Selected Projects
+[Code](https://github.com/anasJabaly/portfolio) · [Website](https://www.anas-jabaly.de)
 
-### 🎯 Fokus für YouTube
+### UNO
 
-A browser extension designed to reduce distractions on YouTube
-and create a more focused viewing experience.
+Multiplayer-Kartenspiel im Browser mit Spielräumen und automatischer Wiederverbindung. Die Spiellogik behandelt Verbindungsabbrüche und ermöglicht zurückkehrenden Spielern den Wiedereinstieg.
 
-- JavaScript
-- Chrome Extension / Manifest V3
-- Content filtering
-- Productivity features
+**Technik:** JavaScript, HTML, CSS und PeerJS. Der Spielzustand liegt im Host-Browser; beim Schließen oder Neuladen des Hosts geht er verloren.
 
-[View Repository](https://github.com/anasJabaly/fokus-for-youtube)
-·
-[Product Page](https://www.anas-jabaly.de/produkte.html)
+[Code](https://github.com/anasJabaly/uno)
 
----
+## Weiteres Projekt: PeerLearn TH
 
-### 🌐 Personal Portfolio
+Studentisches Peer-Learning-Projekt, vorgestellt auf meinem Portfolio. Das Repository bleibt vorerst privat und wird für eine spätere Veröffentlichung geprüft.
 
-My personal developer portfolio showcasing my projects,
-skills and experience.
+[Projektvorstellung](https://www.anas-jabaly.de/peerlearn.html)
 
-[View Repository](https://github.com/anasJabaly/portfolio)
-·
-[Live Website](https://www.anas-jabaly.de)
+## Zusammenarbeit
 
----
-
-### 📌 Holo Pinnwand
-
-A personal productivity dashboard and digital pinboard
-built with JavaScript.
-
-[View Repository](https://github.com/anasJabaly/holo_pinwand)
-
----
-
-## 📫 Contact
-
-You can find more about me and my projects on:
-
-🌐 [anas-jabaly.de](https://www.anas-jabaly.de)
-
-💼 LinkedIn
-
-📧 Contact information is available on my portfolio.
+Ich möchte meine Projektpraxis in ein Entwicklungsteam einbringen und im Rahmen einer Werkstudentenstelle weiter ausbauen. Mehr zu meinen Projekten und Kontaktmöglichkeiten steht auf meinem [Portfolio](https://www.anas-jabaly.de).
